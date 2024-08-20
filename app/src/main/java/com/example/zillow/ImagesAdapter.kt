@@ -9,6 +9,8 @@ import com.example.zillow.databinding.ItemImageBinding
 
 class ImagesAdapter(private val images: List<String>): RecyclerView.Adapter<ImagesAdapter.ImageViewHolder>() {
 
+
+
     class ImageViewHolder(private val view: ItemImageBinding): ViewHolder(view.root) {
 
         fun bind(imageUrl: String) {
