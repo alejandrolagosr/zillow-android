@@ -1,9 +1,9 @@
-package com.example.myapplication
+package com.example.zillow
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import com.example.myapplication.databinding.ActivityMainBinding
+import com.example.zillow.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
