@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.zillow
 
 import com.google.gson.annotations.SerializedName
 import retrofit2.Retrofit
